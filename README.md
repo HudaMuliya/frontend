@@ -65,3 +65,10 @@ Note
 
 This repository is continuously evolving as I learn, experiment, and build new projects.
 
+
+Legend
+
+🟢 Comfortable
+🟡 Learning
+⚪ Planned
+
