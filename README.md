@@ -89,3 +89,9 @@ Learning → Building → Experimenting → Improving
 This repository is continuously evolving as I learn, experiment, and build new projects.
 Learning → Building → Experimenting → Improving
 
+## 🛠️ What I Build
+
+I enjoy building things that are useful, interactive, and enjoyable to use.
+
+My projects range from small experiments to complete applications, with a focus on turning ideas into working products.
+
