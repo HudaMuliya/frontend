@@ -28,15 +28,13 @@ A collection of my frontend development projects, experiments, and learning jour
 
 This repository contains various experiments and implementations while exploring modern frontend technologies.
 
-### Current Learning
+📈 Development Philosophy
 
-* [ ] WebSocket
-* [ ] Real-time Communication
-* [ ] WebRTC
-* [ ] State Management
-* [ ] Performance Optimization
-* [ ] Testing
-* [ ] AI Integration
+Learn the fundamentals.
+Build real projects.
+Experiment with new technology.
+Understand how things work.
+Keep improving.
 
 ## 🛠️ Technologies
 
