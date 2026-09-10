@@ -36,6 +36,26 @@ Experiment with new technology.
 Understand how things work.
 Keep improving.
 
+Current Learning
+
+WebSocket Fundamentals
+
+Real-time Communication
+
+WebSocket Reconnection
+
+Authentication
+
+Real-time State Management
+
+WebRTC
+
+Performance Optimization
+
+Testing
+
+AI Integration
+
 ## 🛠️ Technologies
 
 **Languages**
