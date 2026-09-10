@@ -65,3 +65,5 @@ Note
 
 This repository is continuously evolving as I learn, experiment, and build new projects.
 
+Learning → Building → Experimenting → Improving
+
