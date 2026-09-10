@@ -61,3 +61,7 @@ Projects and experiments will be added as I continue learning and building.
 
 Build modern, scalable, and interactive applications across web, mobile, and game platforms.
 
+Note
+
+This repository is continuously evolving as I learn, experiment, and build new projects.
+
